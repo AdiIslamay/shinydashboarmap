@@ -1,0 +1,7 @@
+lat = c(-6.18,-6.17,-6.21,-6.19,-6.16)
+long = c(106.78,106.78,106.78,106.79,106.79)
+idkampus = c("ukrida","udn","ISTA","BINUS","TRISAKTI")
+nama = c("ukrida kampus 2","Univ Dian Nusantara","Institut Teknologi Sains Al-Kamal","Univ Bina Nusantara","Univ Trisakti")
+kapasitas = c(70,75,75,80,85)
+jarak = c(0.2,2.4,3.1,3.4,4.0)
+df = data.frame(lat,long,idkampus,nama,kapasitas,jarak)
